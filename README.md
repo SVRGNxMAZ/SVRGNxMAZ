@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SVRGNxMAZ
 - 👀 I’m interested in Programming, gaming, problem solving and etc..
-- 🌱 I’m currently learning c, c++, c# and wanted to try other language.
+- 🌱 I’m currently learning c, c++, c#, JAVA and wanted to try other language.
 - 📫 How to reach me, don't worry just email at my edu email = akramzaki@raudah.usim.edu.my
 
 <!---
